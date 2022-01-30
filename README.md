@@ -1,5 +1,6 @@
-* Hello there, my name is Annimari
-* On a paper, I'm an engineer and master in Automation Technology
+Hello there, my name is Annimari
+**![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`**
+On a paper, I'm an engineer and master in Automation Technology
 * I’m interested in cool technologies, natural sciences and sustainability
 * Also enjoying nerdy problem solving
 * Currently I'd like to learn:
