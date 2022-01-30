@@ -1,14 +1,14 @@
 
 ```diff
 @@ Hello there, my name is Annimari @@
-On a paper, I'm an engineer and master in Automation Technology
+* On a paper, I'm an engineer and master in Automation Technology
 * I’m interested in cool technologies, natural sciences and sustainability
 * Also enjoying nerdy problem solving
 * Currently I'd like to learn:
 * Coding and modeling related to natural sciences
-* I’m looking to collaborate on anything, feel free to surprise and ask
-* You can reach me best by email hartikainenannimari@gmail.com
 
+I'm also surprised that you're reading this
+You might contact me by email to hartikainenannimari[at]gmail.com to let me know why you're here
 ```
 
 <!---
