@@ -1,7 +1,7 @@
 - Hello there, my name is Annimari
 - On the paper, I'm a Master in Automation Technology (major from Information and programming side of Automation)
 - I’m interested in cool technologies, natural sciences and sustainability
-- Also enjoying the nerdy problem solving
+- Also enjoying nerdy problem solving
 - Currently I'd like to learn:
 - * Coding and modeling related to natural sciences
 - I’m looking to collaborate on anything, feel free to surprise and ask
