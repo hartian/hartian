@@ -1,4 +1,4 @@
-- Hello there, my name is Annimari
+Hello there, my name is Annimari
 - On the paper, I'm a Master in Automation Technology (major from Information and programming side of Automation)
 - I’m interested in cool technologies, natural sciences and sustainability
 - Also enjoying nerdy problem solving
