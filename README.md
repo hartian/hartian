@@ -1,4 +1,5 @@
 Hello there, my name is Annimari
+
 On a paper, I'm an engineer and master in Automation Technology
 I’m interested in cool technologies, natural sciences and sustainability
 Also enjoying nerdy problem solving
